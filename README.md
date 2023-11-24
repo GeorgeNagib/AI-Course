@@ -5,7 +5,7 @@
 
 `Ladies and gentlemen, Welcome to this exciting journey of learning AI engineering! You have made a great decision to embark on this path, and I am thrilled to be part of your journey. As you know, AI engineering is a rapidly growing field that has the potential to transform industries and revolutionize the way we live and work. With the rise of AI, we have the opportunity to create intelligent systems that can learn, reason, and act autonomously, and that can help us solve some of the world's most pressing challenges. But, let's be real, learning AI engineering is not going to be easy. It requires dedication, hard work, and a willingness to continuously learn and adapt. You will need to invest time and effort to develop a strong foundation in computer science, mathematics, and programming. You will also need to stay up-to-date with the latest advancements in AI research and technology. So, why should you bother? Why should you invest your time and energy in learning AI engineering? Well, my friends, the answer is simple. AI engineering is not just a skill, it's a superpower. With the ability to create intelligent systems that can learn and adapt, you will have the power to transform industries, improve people's lives, and create a better future for all of us. Imagine being able to develop AI systems that can:`
 
->     💻 Diagnose diseases more accurately and quickly than human doctors
+    💻 Diagnose diseases more accurately and quickly than human doctors
     💊 Create personalized treatment plans for patients
     📈 Optimize supply chain management for businesses
     🚗 Develop autonomous vehicles that can reduce accidents and improve traffic flow
