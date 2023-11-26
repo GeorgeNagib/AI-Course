@@ -18,4 +18,4 @@
 
 **The journey of learning is a path filled with excitement, wonder, and growth. It takes us through various chapters, each building upon the last, and filled with new discoveries and opportunities. We start with the foundation, learning basics and building a strong base. Next, we explore new concepts and ideas, and learn how to apply them practically. The practice chapter refines our skills and techniques, making us more confident and proficient. The mastery chapter pushes us to new heights, excelling in our chosen field. Finally, we share what we've learned with others, passing on knowledge and expertise to help them on their own journey. With perseverance and dedication, we can overcome obstacles and continue to grow and learn throughout this lifelong adventure.**
 
-**LETS GET STARTED!** **[Chatper 1 - Python](https://)**.
+**LETS GET STARTED!** **[Chatper 1 - Python](https://github.com/GeorgeNagib/AI-Course/blob/main/PythonOverview.md)**.
