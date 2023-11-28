@@ -15,4 +15,15 @@ Constraints:
 `Sample Input: 42` 
 `Output: The number is positive.`
 
+### Problem 2: Write a Python program that prints the numbers from 1 to 100. However, for the odd number print TIK for the even number print TAK.
 
+Output:
+   1 TIK 
+   2 TAK
+   3 TIK
+   4 TAK
+   ...
+   99 TIK
+   100 TAK
+
+`Use % to know if the number is even or odd, google it for more or even better, Use perplexity.ai`
