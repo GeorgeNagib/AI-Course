@@ -12,7 +12,7 @@ Constraints:
     The program should use the comparison operators (>, <, ==) to compare the value of the number to zero.
     The program should use the print function to print out the message.
 
-Sample Input: 42 
-Output: The number is positive.
+`Sample Input: 42` 
+`Output: The number is positive.`
 
 
