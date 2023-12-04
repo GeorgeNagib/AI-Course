@@ -4,7 +4,7 @@
   3. Add `Mango` as the second element of that list
   4. Remove `Apple` from the list
 
-# Problem 1
+# Problem 2
 ## Create a funtion that takes a number and:
   1. Say if it's even or odd
   2. if it's even return it
