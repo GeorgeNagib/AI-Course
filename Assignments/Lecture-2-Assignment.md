@@ -1,8 +1,8 @@
 # Problem 1
-## Define a list with the following elements in it (Apple, Bannana, Cherry)
-## Add `Orange` to the list, at the end of it
-## Add `Mango` as the second element of that list
-## Remove `Apple` from the list
+  1. Define a list with the following elements in it (Apple, Bannana, Cherry)
+  2. Add `Orange` to the list, at the end of it
+  3. Add `Mango` as the second element of that list
+  4. Remove `Apple` from the list
 
 # Problem 1
 ## Create a funtion that takes a number and:
